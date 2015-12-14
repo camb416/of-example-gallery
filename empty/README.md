@@ -1,3 +1,5 @@
-emptyExample
+[< back to main](../README.md)
 
-![emptyExample screenshot](emptyExample)
+#examples/empty
+
+![emptyExample screenshot](emptyExample.png)

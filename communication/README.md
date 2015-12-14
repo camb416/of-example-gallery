@@ -1,3 +1,7 @@
+[< back to main](../README.md)
+
+#examples/communication
+
 firmataExample
 
 ![firmataExample screenshot](firmataExample.png)

@@ -1,3 +1,7 @@
+[< back to main](../README.md)
+
+#examples/events
+
 advancedEventsExample
 
 ![advancedEventsExample screenshot](advancedEventsExample.png)
