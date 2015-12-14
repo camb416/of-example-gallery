@@ -1,3 +1,7 @@
+[< back to main](../README.md)
+
+#examples/gui
+
 guiExample
 
 ![guiExample](guiExample.png)

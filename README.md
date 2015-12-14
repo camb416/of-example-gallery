@@ -31,10 +31,13 @@ available
 
   ![events montage](graphics/montage.png)  
 
+- [gui](gui/README.md)
+
+  ![gui montage](gui/montage.png)  
+
+
 in progress
 
-
-- [gui](gui/README.md)
 - [math](math/README.md)
 - [sound](sound/README.md)
 - [utils](utils/README.md)
