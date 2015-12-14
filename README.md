@@ -27,9 +27,13 @@ available
  
   ![events montage](gl/montage.png)  
 
+- [graphics](graphics/README.md)
+
+  ![events montage](graphics/montage.png)  
+
 in progress
 
-- [graphics](graphics/README.md)
+
 - [gui](gui/README.md)
 - [math](math/README.md)
 - [sound](sound/README.md)
