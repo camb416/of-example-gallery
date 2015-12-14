@@ -1,14 +1,29 @@
 # of-example-gallery
 Gallery of OpenFrameworks Example Projects
 
-available
 - [3d](3d/README.md)
+
+  ![3d montage](3d/montage.png)
+
 - [addons](addons/README.md)
+
+  ![addons montage](addons/montage.png)
+
 - [communication](communication/README.md)
+
+  ![communication montage](communication/montage.png)
+
 - [empty](empty/README.md)
+
+  ![empty montage](empty/montage.png)
+
 - [events](events/README.md)
 
+  ![events montage](events/montage.png)
+
+
 in progress
+
 - [gl](gl/README.md)
 - [graphics](graphics/README.md)
 - [gui](gui/README.md)
