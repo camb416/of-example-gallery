@@ -1,6 +1,8 @@
 # of-example-gallery
 Gallery of OpenFrameworks Example Projects
 
+available
+
 - [3d](3d/README.md)
 
   ![3d montage](3d/montage.png)
@@ -20,11 +22,13 @@ Gallery of OpenFrameworks Example Projects
 - [events](events/README.md)
 
   ![events montage](events/montage.png)
-
+  
+- [gl](gl/README.md)
+ 
+  ![events montage](gl/montage.png)  
 
 in progress
 
-- [gl](gl/README.md)
 - [graphics](graphics/README.md)
 - [gui](gui/README.md)
 - [math](math/README.md)
