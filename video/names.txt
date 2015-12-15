@@ -1,4 +1,0 @@
-asciiVideo
-osxVideoRecorderExample
-videoGrabberExample
-videoPlayerExample
