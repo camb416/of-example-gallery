@@ -1,5 +1,7 @@
 # of-example-gallery
-Gallery of OpenFrameworks v0.9.0 Example Projects
+Gallery of [OpenFrameworks](http://openframeworks.cc/) v0.9.0 Example Projects.
+
+Click the folder names below to view the screenshots at 100%. On those pages, click the example names to visit the github source.
 
 - [3d](3d/README.md)
 
