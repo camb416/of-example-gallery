@@ -45,10 +45,12 @@ Gallery of OpenFrameworks v0.9.0 Example Projects
 
   ![utils montage](utils/montage.png)
 
-
-
-in progress
-
-
-
 - [video](video/README.md)
+
+  ![video montage](video/montage.png)
+
+
+
+
+
+
