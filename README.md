@@ -1,5 +1,5 @@
 # of-example-gallery
-Gallery of OpenFrameworks Example Projects
+Gallery of OpenFrameworks v0.9.0 Example Projects
 
 available
 
@@ -34,11 +34,16 @@ available
 - [gui](gui/README.md)
 
   ![gui montage](gui/montage.png)  
+  
+- [math](math/README.md)
+
+  ![math montage](math/montage.png)
+
 
 
 in progress
 
-- [math](math/README.md)
+
 - [sound](sound/README.md)
 - [utils](utils/README.md)
 - [video](video/README.md)

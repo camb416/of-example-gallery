@@ -1,3 +1,7 @@
+[< back to main](../README.md)
+
+#examples/math
+
 noise1dExample
 
 ![noise1dExample](noise1dExample.png)
