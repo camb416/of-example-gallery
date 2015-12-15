@@ -1,3 +1,9 @@
+
+[< back to main](../README.md)
+
+#examples/utils
+
+
 clipboardExample
 
 ![clipboardExample screenshot](clipboardExample.png)
@@ -57,4 +63,6 @@ windowExample
 xmlExample
 
 ![xmlExample screenshot](xmlExample.png)
+
+[< back to main](../README.md)
 

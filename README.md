@@ -1,8 +1,6 @@
 # of-example-gallery
 Gallery of OpenFrameworks v0.9.0 Example Projects
 
-available
-
 - [3d](3d/README.md)
 
   ![3d montage](3d/montage.png)
@@ -39,11 +37,18 @@ available
 
   ![math montage](math/montage.png)
 
+- [sound](sound/README.md)
+
+  ![sound montage](sound/montage.png)
+
+- [utils](utils/README.md)
+
+  ![utils montage](utils/montage.png)
+
 
 
 in progress
 
 
-- [sound](sound/README.md)
-- [utils](utils/README.md)
+
 - [video](video/README.md)

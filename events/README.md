@@ -30,3 +30,5 @@ simpleTimer
 
 ![simpleTimer screenshot](simpleTimer.png)
 
+[< back to main](../README.md)
+
